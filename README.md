@@ -293,4 +293,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the G2 Reviews API to power your competitor analysis, customer sentiment, and review monitoring with reliable, structured results.*
 
-Last Updated: 2026.09.03
+Last Updated: 2026.09.04
